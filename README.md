@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresFelipe077?tab=repositories](https://github.com/AndresFelipe077?tab=repositories)
 
-- 📝 I love developing [video games](video games)
+- 📝 I love developing video games
 
 - 💬 Ask me about **laravel, Nest js and others softwares**
 
 - 📫 How to reach me **felpilgamestudio@gmail.com**
 
-- 📄 Know about my experiences [I am a young man who loves programming apps, web pages and video games](I am a young man who loves programming apps, web pages and video games)
+- 📄 Know about my experiences I am a young man who loves programming apps, web pages and video games. I am a young man who loves programming apps, web pages and video games
 
 - ⚡ Fun fact **I am funny**
 
