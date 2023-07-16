@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Felipe</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
+<img align="right" alt="Codificación" width="400" src="https://tenor.com/es/view/sultan-alrefaei-programmer-office-gif-13165216">
+
 
 - 🔭 I’m currently working on **SENA**
 
