@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Felipe</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
-<img align="right" alt="Codificación" width="400" style="border-radius: 50%; overflow: hidden;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Codificación" width="400" style="border-radius: 50% !important; overflow: hidden;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **SENA**
 
