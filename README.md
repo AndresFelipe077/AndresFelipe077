@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **felpilgamestudio@gmail.com**
 
-- 📄 Know about my experiences I am a young man who loves programming apps, web pages and video games. I am a young man who loves programming apps, web pages and video games
-
+- 📄 Know about my experiences I am a young man who loves programming apps, web pages and video games.
 - ⚡ Fun fact **I am quiet**
 
 <h3 align="left">Connect with me:</h3>
