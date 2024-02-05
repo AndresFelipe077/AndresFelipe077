@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://felpilgamesstudio.online">
-    <img align="center" alt="Codificación" width="150" style="border-radius: 50% !important; text-align: center; display: block; margin: 0 auto;" src="https://felpilgamesstudio.online/assets/img_felpil_circle.png">
+    <img align="center" alt="Codificación" width="130" style="border-radius: 50% !important; text-align: center; display: block; margin: 0 auto;" src="https://felpilgamesstudio.online/assets/img_felpil_circle.png">
   </a>
 </p>
 
