@@ -59,5 +59,5 @@
 <br>
 <div align="center">
 <h3>Support</h3>
-<p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
+<p><a href="https://www.buymeacoffee.com/felpil"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
 </div>
