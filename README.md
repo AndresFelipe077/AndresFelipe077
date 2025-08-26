@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **laravel, Nest js and others softwares**
 
-- 📫 How to reach me **felpilgamestudio@gmail.com** and my web page [felpilgamesstudio.online](https://felpilgamesstudio.online)
+- 📫 How to reach me **felpilgamesstudio@gmail.com** and my web page [felpilgamesstudio.online](https://felpilgamesstudio.online)
 
 - 📄 Know about my experiences I am a young man who loves programming apps, web pages and video games.
 - ⚡ Fun fact **I am quiet**
