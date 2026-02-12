@@ -9,15 +9,15 @@
 <h3 align="center">A passionate software developer from Colombia</h3>
 <img align="right" alt="Codificación" width="400" style="border-radius: 50% !important; overflow: hidden;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Virtual Tecnology**
+- 🔭 I’m currently working
 
-- 🌱 I’m currently learning **Nest js with graphql**
+- 🌱 I’m currently learning **Nest js with graphql** and **arquitecture hexagonal**
 
 - 👯 I’m looking to collaborate on **large software companies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresFelipe077?tab=repositories](https://github.com/AndresFelipe077?tab=repositories)
 
-- 📝 I love developing video games
+- 📝 I love developing video games and web pages
 
 - 💬 Ask me about **laravel, Nest js and others softwares**
 
