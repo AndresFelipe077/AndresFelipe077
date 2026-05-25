@@ -1,6 +1,11 @@
 <p align="center">
   <a href="https://felpilstudio.cloud">
-    <img align="center" alt="Felpil Studio" width="130" style="border-radius: 50%; text-align: center; display: block; margin: 0 auto;" src="https://felpilgamesstudio.online/assets/img_felpil_circle.png">
+    <img 
+      src="https://yt3.googleusercontent.com/v-l1BdnZcS3kQ9gmHJnnUqzwAkLRvZJeDA_rBdLWXVKHxa-CSHYrBQA6ioOAUn9Uuysw3drEADU=s160-c-k-c0x00ffffff-no-rj"
+      alt="Felpil Studio"
+      width="130"
+      style="border-radius:50%;"
+    />
   </a>
 </p>
 
