@@ -20,8 +20,8 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **PointShop** - a multi-tenant e-commerce/POS platform
-- 🌱 I'm currently learning **NestJS with GraphQL** and **Hexagonal Architecture**
+- 🔭 I'm currently working on **Felpil Park** - a multi-tenant parks platform
+- 🌱 I am currently applying **Hexagonal Architecture** with Laravel.
 - 👯 I'm looking to collaborate on **large-scale software projects**
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/AndresFelipe077?tab=repositories)
 - 📝 I love developing **web applications, e-commerce platforms, and software solutions**
