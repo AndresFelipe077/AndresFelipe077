@@ -93,7 +93,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/andresfelipe077">
-    <img src="https://api.daily.dev/devcards/v2/OfAYAKCoI6a4NMv58b1jr.png?type=default&r=u5d" width="356" alt="Andrés Felipe Pizo Luligo's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/OfAYAKCoI6a4NMv58b1jr.png?type=default&r=wfo" width="356" alt="Andres Felipe Pizo Luligo's Dev Card"/>
   </a>
 </div>
 
